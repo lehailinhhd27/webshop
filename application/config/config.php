@@ -3,6 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 
 $config['base_url'] = 'https://shopdochoitrecon.herokuapp.com/';
+$config['sess_save_path'] = BASEPATH.'sessions';
 
 $config['index_page'] = 'index.php';
 
