@@ -52,7 +52,6 @@ $config['cache_path'] = '';
 
 $config['cache_query_string'] = FALSE;
 
-
 $config['encryption_key'] = '';
 
 $config['sess_driver'] = 'files';
