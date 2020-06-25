@@ -4,7 +4,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $config['base_url'] = 'https://shopdochoitrecon.herokuapp.com/';
 
-
 $config['index_page'] = 'index.php';
 
 $config['uri_protocol']	= 'REQUEST_URI';

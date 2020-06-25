@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'db4free.net',
-	'username' => 'linh_shopdochoi',
-	'password' => 'Linh1234',
-	'database' => 'shopdochoi',
+	'hostname' => 'http://185.27.134.10/',
+	'username' => 'frsiv_26099482',
+	'password' => 'Linh2705',
+	'database' => 'frsiv_26099482_shopdochoi',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
